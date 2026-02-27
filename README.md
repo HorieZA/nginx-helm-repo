@@ -6,4 +6,8 @@ Helm chart repository provided by EDU
       helm repo list
       helm repo update
       helm search repo mynginx
+<<<<<<< HEAD
       helm install webserver nginx-helm-repo/mynginx
+=======
+      helm install webserver nginx-helm-repo/mynginx
+>>>>>>> 98fe424 (260227)
